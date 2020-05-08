@@ -1,0 +1,122 @@
+#co{
+    font-family: 'Merriweather', serif;
+    border:4px solid dimgrey;
+    border-radius:25px;
+    text-align: center;
+    width:500px;
+    background-color: darkgray;
+ 
+}
+#a{
+    color:blue;
+    
+}
+#b{
+    color:brown;
+    
+}
+#c{
+    color:darkmagenta;
+    
+}
+#d{
+    color:aqua;
+}
+.information{
+    border:2px solid black;
+    background-color:black;
+    margin-top:20px;
+}
+.row {
+  display: flex;
+}
+/* Left column (menu) */
+.left {
+  flex: 35%;
+  padding: 15px 0;
+}
+
+.left h2 {
+  padding-left: 8px;
+}
+
+/* Right column (page content) */
+.right {
+  flex: 65%;
+  padding: 15px;
+}
+
+/* Style the search box */
+#mySearch {
+  width: 100%;
+  font-size: 18px;
+  padding: 11px;
+  border: 1px solid #ddd;
+}
+
+/* Style the navigation menu inside the left column */
+#myMenu {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+#myMenu li a {
+  padding: 12px;
+  text-decoration: none;
+  color: white;
+  display: block
+}
+
+#myMenu li a:hover {
+  background-color: #eee;
+}
+
+.card-text{
+    color:brown;
+    font-size:1.4rem;
+}
+.contac{
+    border:4px solid grey;
+    background-color:snow;
+    width:100%;
+    height:300px;
+}
+.abc{
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+.contac ul {
+    list-style: none;
+
+}
+.contac ul li a{
+    padding-left:40%;
+    color:black;
+    font-size: 1.8rem;
+    font-family: fantasy;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
